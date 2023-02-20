@@ -1,0 +1,15 @@
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/bin/Debug/net7.0/Calculator
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Calculator/obj/Debug/net7.0/ref/Calculator.dll

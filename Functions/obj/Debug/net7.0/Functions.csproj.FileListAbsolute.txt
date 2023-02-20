@@ -1,0 +1,15 @@
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/bin/Debug/net7.0/Functions
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/bin/Debug/net7.0/Functions.deps.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/bin/Debug/net7.0/Functions.runtimeconfig.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/bin/Debug/net7.0/Functions.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/bin/Debug/net7.0/Functions.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/obj/Debug/net7.0/Functions.csproj.AssemblyReference.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/obj/Debug/net7.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/obj/Debug/net7.0/Functions.AssemblyInfoInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/obj/Debug/net7.0/Functions.AssemblyInfo.cs
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/obj/Debug/net7.0/Functions.csproj.CoreCompileInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/obj/Debug/net7.0/Functions.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/obj/Debug/net7.0/refint/Functions.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/obj/Debug/net7.0/Functions.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/obj/Debug/net7.0/Functions.genruntimeconfig.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/Functions/obj/Debug/net7.0/ref/Functions.dll

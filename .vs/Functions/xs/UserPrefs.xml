@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{373ED543-84AA-44F1-BAAF-EBE279C8F874}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DiscountCalculator FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Functions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ArgumentsAndParameters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

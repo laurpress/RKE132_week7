@@ -1,0 +1,15 @@
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/bin/Debug/net7.0/DiscountCalculator
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/bin/Debug/net7.0/DiscountCalculator.deps.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/bin/Debug/net7.0/DiscountCalculator.runtimeconfig.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/bin/Debug/net7.0/DiscountCalculator.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/bin/Debug/net7.0/DiscountCalculator.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/obj/Debug/net7.0/DiscountCalculator.csproj.AssemblyReference.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/obj/Debug/net7.0/DiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/obj/Debug/net7.0/DiscountCalculator.AssemblyInfoInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/obj/Debug/net7.0/DiscountCalculator.AssemblyInfo.cs
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/obj/Debug/net7.0/DiscountCalculator.csproj.CoreCompileInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/obj/Debug/net7.0/DiscountCalculator.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/obj/Debug/net7.0/refint/DiscountCalculator.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/obj/Debug/net7.0/DiscountCalculator.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/obj/Debug/net7.0/DiscountCalculator.genruntimeconfig.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Functions/DiscountCalculator/obj/Debug/net7.0/ref/DiscountCalculator.dll
